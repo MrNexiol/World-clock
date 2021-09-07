@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">World Clock</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">Add timezone</string>
+    <string name="search_zone">Search for country or city</string>
+    <string name="actual">Aktualny:&#160;</string>
+</resources>
